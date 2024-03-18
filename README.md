@@ -239,7 +239,7 @@ npm start -- "--lang fortran pokedex.json"
 The command in quotes is passed to `quicktype`, so you can render local `.json`
 files, URLs, or add other options.
 
-### Test
+### Test Quicktype
 
 ```bash
 # Run full test suite
